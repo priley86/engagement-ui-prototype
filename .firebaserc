@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "patternfly-react-starter",
+    "default": "engagement-ui-prototype"
+  }
+}

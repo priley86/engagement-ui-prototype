@@ -1,0 +1,23 @@
+/**
+ Patternfly css extensions
+*/
+.navbar-pf-vertical .navbar-brand {
+  padding: 11px 0 0;
+}
+
+.page-header {
+  border-bottom: 1px solid #ececec;
+  margin: 20px 0 20px;
+}
+
+.page-header.no-border {
+  border-bottom: none;
+}
+
+.blank-slate-pf {
+  background-color: #ffffff;
+}
+
+hr {
+  border-top: 1px solid #ececec;
+}

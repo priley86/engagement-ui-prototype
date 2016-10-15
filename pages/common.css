@@ -1,0 +1,6 @@
+@import './variables.css';
+
+.float_right {
+  display:inline-block;
+  float: right;
+}
